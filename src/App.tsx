@@ -1,7 +1,7 @@
 import React from 'react';
 // import { connect } from 'react-redux';
 import { Grid } from 'semantic-ui-react';
-import Inventory from './components/Inventory'
+import Inventory from './components/Inventory';
 
 function App() {
   return (
